@@ -1,0 +1,18 @@
+{
+    "name": "free-agario-bots",
+    "version": "1.0.1",
+    "description": "Free open source agar.io bots",
+    "author": "Nel-Jimboy3100",
+    "license": "GNU General Public License (GPL)",
+    "dependencies": {
+        "murmurhash-js": "^1.0.0",
+        "ws": "^7.1.1",
+        "request": "^2.88.0",
+        "request-promise": "^4.2.4",
+        "colour": "^0.7.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://jimboy3100.github.io/ExampleScripts/agario-bots2"
+    }
+}
